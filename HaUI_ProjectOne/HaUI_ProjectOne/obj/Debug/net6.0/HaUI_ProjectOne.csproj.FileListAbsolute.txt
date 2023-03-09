@@ -1,0 +1,15 @@
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\bin\Debug\net6.0\HaUI_ProjectOne.exe
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\bin\Debug\net6.0\HaUI_ProjectOne.deps.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\bin\Debug\net6.0\HaUI_ProjectOne.runtimeconfig.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\bin\Debug\net6.0\HaUI_ProjectOne.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\bin\Debug\net6.0\HaUI_ProjectOne.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\obj\Debug\net6.0\HaUI_ProjectOne.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\obj\Debug\net6.0\HaUI_ProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\obj\Debug\net6.0\HaUI_ProjectOne.AssemblyInfoInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\obj\Debug\net6.0\HaUI_ProjectOne.AssemblyInfo.cs
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\obj\Debug\net6.0\HaUI_ProjectOne.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\obj\Debug\net6.0\HaUI_ProjectOne.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\obj\Debug\net6.0\refint\HaUI_ProjectOne.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\obj\Debug\net6.0\HaUI_ProjectOne.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\obj\Debug\net6.0\HaUI_ProjectOne.genruntimeconfig.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\HaUI_ProjectOne\HaUI_ProjectOne\obj\Debug\net6.0\ref\HaUI_ProjectOne.dll

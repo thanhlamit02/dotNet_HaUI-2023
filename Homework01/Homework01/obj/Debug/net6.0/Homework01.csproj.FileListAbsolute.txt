@@ -1,0 +1,15 @@
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\bin\Debug\net6.0\Homework01.exe
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\bin\Debug\net6.0\Homework01.deps.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\bin\Debug\net6.0\Homework01.runtimeconfig.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\bin\Debug\net6.0\Homework01.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\bin\Debug\net6.0\Homework01.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\obj\Debug\net6.0\Homework01.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\obj\Debug\net6.0\Homework01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\obj\Debug\net6.0\Homework01.AssemblyInfoInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\obj\Debug\net6.0\Homework01.AssemblyInfo.cs
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\obj\Debug\net6.0\Homework01.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\obj\Debug\net6.0\Homework01.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\obj\Debug\net6.0\refint\Homework01.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\obj\Debug\net6.0\Homework01.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\obj\Debug\net6.0\Homework01.genruntimeconfig.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Homework01\Homework01\obj\Debug\net6.0\ref\Homework01.dll
