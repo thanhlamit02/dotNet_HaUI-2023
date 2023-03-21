@@ -1,0 +1,15 @@
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.exe
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.deps.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.runtimeconfig.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.AssemblyInfoInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.AssemblyInfo.cs
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\obj\Debug\net6.0\refint\HinhChuNhat.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.genruntimeconfig.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\HinhChuNhat\obj\Debug\net6.0\ref\HinhChuNhat.dll

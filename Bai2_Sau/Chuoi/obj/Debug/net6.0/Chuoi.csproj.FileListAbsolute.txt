@@ -1,0 +1,15 @@
+D:\.NET\Bai22\Chuoi\bin\Debug\net6.0\Chuoi.exe
+D:\.NET\Bai22\Chuoi\bin\Debug\net6.0\Chuoi.deps.json
+D:\.NET\Bai22\Chuoi\bin\Debug\net6.0\Chuoi.runtimeconfig.json
+D:\.NET\Bai22\Chuoi\bin\Debug\net6.0\Chuoi.dll
+D:\.NET\Bai22\Chuoi\bin\Debug\net6.0\Chuoi.pdb
+D:\.NET\Bai22\Chuoi\obj\Debug\net6.0\Chuoi.csproj.AssemblyReference.cache
+D:\.NET\Bai22\Chuoi\obj\Debug\net6.0\Chuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Bai22\Chuoi\obj\Debug\net6.0\Chuoi.AssemblyInfoInputs.cache
+D:\.NET\Bai22\Chuoi\obj\Debug\net6.0\Chuoi.AssemblyInfo.cs
+D:\.NET\Bai22\Chuoi\obj\Debug\net6.0\Chuoi.csproj.CoreCompileInputs.cache
+D:\.NET\Bai22\Chuoi\obj\Debug\net6.0\Chuoi.dll
+D:\.NET\Bai22\Chuoi\obj\Debug\net6.0\refint\Chuoi.dll
+D:\.NET\Bai22\Chuoi\obj\Debug\net6.0\Chuoi.pdb
+D:\.NET\Bai22\Chuoi\obj\Debug\net6.0\Chuoi.genruntimeconfig.cache
+D:\.NET\Bai22\Chuoi\obj\Debug\net6.0\ref\Chuoi.dll

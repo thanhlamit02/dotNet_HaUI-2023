@@ -1,0 +1,15 @@
+D:\.NET\Bai22\CauTruc\bin\Debug\net6.0\CauTruc.exe
+D:\.NET\Bai22\CauTruc\bin\Debug\net6.0\CauTruc.deps.json
+D:\.NET\Bai22\CauTruc\bin\Debug\net6.0\CauTruc.runtimeconfig.json
+D:\.NET\Bai22\CauTruc\bin\Debug\net6.0\CauTruc.dll
+D:\.NET\Bai22\CauTruc\bin\Debug\net6.0\CauTruc.pdb
+D:\.NET\Bai22\CauTruc\obj\Debug\net6.0\CauTruc.csproj.AssemblyReference.cache
+D:\.NET\Bai22\CauTruc\obj\Debug\net6.0\CauTruc.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Bai22\CauTruc\obj\Debug\net6.0\CauTruc.AssemblyInfoInputs.cache
+D:\.NET\Bai22\CauTruc\obj\Debug\net6.0\CauTruc.AssemblyInfo.cs
+D:\.NET\Bai22\CauTruc\obj\Debug\net6.0\CauTruc.csproj.CoreCompileInputs.cache
+D:\.NET\Bai22\CauTruc\obj\Debug\net6.0\CauTruc.dll
+D:\.NET\Bai22\CauTruc\obj\Debug\net6.0\refint\CauTruc.dll
+D:\.NET\Bai22\CauTruc\obj\Debug\net6.0\CauTruc.pdb
+D:\.NET\Bai22\CauTruc\obj\Debug\net6.0\CauTruc.genruntimeconfig.cache
+D:\.NET\Bai22\CauTruc\obj\Debug\net6.0\ref\CauTruc.dll

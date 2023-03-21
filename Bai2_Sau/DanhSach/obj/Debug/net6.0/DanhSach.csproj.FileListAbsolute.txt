@@ -1,0 +1,15 @@
+D:\.NET\Bai22\DanhSach\bin\Debug\net6.0\DanhSach.exe
+D:\.NET\Bai22\DanhSach\bin\Debug\net6.0\DanhSach.deps.json
+D:\.NET\Bai22\DanhSach\bin\Debug\net6.0\DanhSach.runtimeconfig.json
+D:\.NET\Bai22\DanhSach\bin\Debug\net6.0\DanhSach.dll
+D:\.NET\Bai22\DanhSach\bin\Debug\net6.0\DanhSach.pdb
+D:\.NET\Bai22\DanhSach\obj\Debug\net6.0\DanhSach.csproj.AssemblyReference.cache
+D:\.NET\Bai22\DanhSach\obj\Debug\net6.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Bai22\DanhSach\obj\Debug\net6.0\DanhSach.AssemblyInfoInputs.cache
+D:\.NET\Bai22\DanhSach\obj\Debug\net6.0\DanhSach.AssemblyInfo.cs
+D:\.NET\Bai22\DanhSach\obj\Debug\net6.0\DanhSach.csproj.CoreCompileInputs.cache
+D:\.NET\Bai22\DanhSach\obj\Debug\net6.0\DanhSach.dll
+D:\.NET\Bai22\DanhSach\obj\Debug\net6.0\refint\DanhSach.dll
+D:\.NET\Bai22\DanhSach\obj\Debug\net6.0\DanhSach.pdb
+D:\.NET\Bai22\DanhSach\obj\Debug\net6.0\DanhSach.genruntimeconfig.cache
+D:\.NET\Bai22\DanhSach\obj\Debug\net6.0\ref\DanhSach.dll

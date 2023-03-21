@@ -1,0 +1,15 @@
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\bin\Debug\net6.0\Baitap2.exe
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\bin\Debug\net6.0\Baitap2.deps.json
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\bin\Debug\net6.0\Baitap2.runtimeconfig.json
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\bin\Debug\net6.0\Baitap2.dll
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\bin\Debug\net6.0\Baitap2.pdb
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\obj\Debug\net6.0\Baitap2.csproj.AssemblyReference.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\obj\Debug\net6.0\Baitap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\obj\Debug\net6.0\Baitap2.AssemblyInfoInputs.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\obj\Debug\net6.0\Baitap2.AssemblyInfo.cs
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\obj\Debug\net6.0\Baitap2.csproj.CoreCompileInputs.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\obj\Debug\net6.0\Baitap2.dll
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\obj\Debug\net6.0\refint\Baitap2.dll
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\obj\Debug\net6.0\Baitap2.pdb
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\obj\Debug\net6.0\Baitap2.genruntimeconfig.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap2\obj\Debug\net6.0\ref\Baitap2.dll

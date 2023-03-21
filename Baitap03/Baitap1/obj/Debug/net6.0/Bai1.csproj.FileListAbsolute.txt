@@ -1,0 +1,15 @@
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\obj\Debug\net6.0\Bai1.csproj.AssemblyReference.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\obj\Debug\net6.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\obj\Debug\net6.0\Bai1.AssemblyInfoInputs.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\obj\Debug\net6.0\Bai1.AssemblyInfo.cs
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\obj\Debug\net6.0\Bai1.csproj.CoreCompileInputs.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\bin\Debug\net6.0\Bai1.exe
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\bin\Debug\net6.0\Bai1.deps.json
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\bin\Debug\net6.0\Bai1.runtimeconfig.json
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\bin\Debug\net6.0\Bai1.dll
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\bin\Debug\net6.0\Bai1.pdb
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\obj\Debug\net6.0\Bai1.dll
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\obj\Debug\net6.0\refint\Bai1.dll
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\obj\Debug\net6.0\Bai1.pdb
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\obj\Debug\net6.0\Bai1.genruntimeconfig.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Bai1.2\obj\Debug\net6.0\ref\Bai1.dll

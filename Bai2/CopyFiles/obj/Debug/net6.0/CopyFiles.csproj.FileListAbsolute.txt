@@ -1,0 +1,15 @@
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\bin\Debug\net6.0\CopyFiles.exe
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\bin\Debug\net6.0\CopyFiles.deps.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\bin\Debug\net6.0\CopyFiles.runtimeconfig.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\bin\Debug\net6.0\CopyFiles.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\bin\Debug\net6.0\CopyFiles.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\obj\Debug\net6.0\CopyFiles.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\obj\Debug\net6.0\CopyFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\obj\Debug\net6.0\CopyFiles.AssemblyInfoInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\obj\Debug\net6.0\CopyFiles.AssemblyInfo.cs
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\obj\Debug\net6.0\CopyFiles.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\obj\Debug\net6.0\CopyFiles.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\obj\Debug\net6.0\refint\CopyFiles.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\obj\Debug\net6.0\CopyFiles.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\obj\Debug\net6.0\CopyFiles.genruntimeconfig.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai2\CopyFiles\obj\Debug\net6.0\ref\CopyFiles.dll

@@ -1,0 +1,15 @@
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\bin\Debug\net6.0\Baitap3.exe
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\bin\Debug\net6.0\Baitap3.deps.json
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\bin\Debug\net6.0\Baitap3.runtimeconfig.json
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\bin\Debug\net6.0\Baitap3.dll
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\bin\Debug\net6.0\Baitap3.pdb
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\obj\Debug\net6.0\Baitap3.csproj.AssemblyReference.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\obj\Debug\net6.0\Baitap3.GeneratedMSBuildEditorConfig.editorconfig
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\obj\Debug\net6.0\Baitap3.AssemblyInfoInputs.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\obj\Debug\net6.0\Baitap3.AssemblyInfo.cs
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\obj\Debug\net6.0\Baitap3.csproj.CoreCompileInputs.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\obj\Debug\net6.0\Baitap3.dll
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\obj\Debug\net6.0\refint\Baitap3.dll
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\obj\Debug\net6.0\Baitap3.pdb
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\obj\Debug\net6.0\Baitap3.genruntimeconfig.cache
+D:\YEAR3\nam3_ki2\.net\Bai1.2\Bai1.2\Baitap3\obj\Debug\net6.0\ref\Baitap3.dll
