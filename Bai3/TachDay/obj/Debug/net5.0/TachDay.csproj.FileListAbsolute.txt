@@ -1,0 +1,15 @@
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\bin\Debug\net5.0\TachDay.exe
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\bin\Debug\net5.0\TachDay.deps.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\bin\Debug\net5.0\TachDay.runtimeconfig.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\bin\Debug\net5.0\TachDay.runtimeconfig.dev.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\bin\Debug\net5.0\TachDay.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\bin\Debug\net5.0\ref\TachDay.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\bin\Debug\net5.0\TachDay.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\obj\Debug\net5.0\TachDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\obj\Debug\net5.0\TachDay.AssemblyInfoInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\obj\Debug\net5.0\TachDay.AssemblyInfo.cs
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\obj\Debug\net5.0\TachDay.csproj.CoreCompileInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\obj\Debug\net5.0\TachDay.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\obj\Debug\net5.0\ref\TachDay.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\obj\Debug\net5.0\TachDay.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TachDay\obj\Debug\net5.0\TachDay.genruntimeconfig.cache

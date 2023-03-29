@@ -1,0 +1,15 @@
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.exe
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.deps.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.runtimeconfig.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.runtimeconfig.dev.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\bin\Debug\net5.0\ref\TamGiac.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.AssemblyInfoInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.AssemblyInfo.cs
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.csproj.CoreCompileInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\obj\Debug\net5.0\ref\TamGiac.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.genruntimeconfig.cache

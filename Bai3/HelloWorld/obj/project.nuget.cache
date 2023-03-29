@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kag7IUcAlbPIP1aea75dn52myJ6cqy7NFeWWFuIBhq7ZuaNOQlIrOcepLNDA4lpHczTlHzkLxvg3kyMOAROyzQ==",
+  "success": true,
+  "projectFilePath": "E:\\Documents\\Giao trinh hoc online\\3rd year\\dotNet\\Project\\Bai3\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thanhlam02.haui\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thanhlam02.haui\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thanhlam02.haui\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thanhlam02.haui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

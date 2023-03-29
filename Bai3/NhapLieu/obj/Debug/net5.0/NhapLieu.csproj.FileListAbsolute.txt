@@ -1,0 +1,16 @@
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.AssemblyInfoInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.AssemblyInfo.cs
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.csproj.CoreCompileInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.exe
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.deps.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.runtimeconfig.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.runtimeconfig.dev.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\bin\Debug\net5.0\ref\NhapLieu.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\obj\Debug\net5.0\ref\NhapLieu.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.genruntimeconfig.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.csproj.AssemblyReference.cache

@@ -1,0 +1,31 @@
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.exe
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.deps.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.dev.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\bin\Debug\net5.0\ref\DanhSach.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfoInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfo.cs
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.csproj.CoreCompileInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\obj\Debug\net5.0\ref\DanhSach.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.genruntimeconfig.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.exe
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.deps.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.dev.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\bin\Debug\net5.0\DanhSach.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfoInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfo.cs
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\obj\Debug\net5.0\refint\DanhSach.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\obj\Debug\net5.0\DanhSach.genruntimeconfig.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\DanhSach\obj\Debug\net5.0\ref\DanhSach.dll

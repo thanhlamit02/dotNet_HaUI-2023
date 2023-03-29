@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXDSuHqBLFenlYzX4moPAKb1jk4qmygiwQ+VrHezmI6yXGE7F8+O7bo7THZLK/r1wxyr+JNl+Rl8Y72deajn2g==",
+  "success": true,
+  "projectFilePath": "E:\\Documents\\Giao trinh hoc online\\3rd year\\dotNet\\Project\\Bai3\\Mang\\Mang.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thanhlam02.haui\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thanhlam02.haui\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thanhlam02.haui\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\thanhlam02.haui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

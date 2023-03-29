@@ -1,0 +1,15 @@
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\obj\Debug\net5.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\obj\Debug\net5.0\Mang.AssemblyInfoInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\obj\Debug\net5.0\Mang.AssemblyInfo.cs
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\obj\Debug\net5.0\Mang.csproj.CoreCompileInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\bin\Debug\net5.0\Mang.exe
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\bin\Debug\net5.0\Mang.deps.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\bin\Debug\net5.0\Mang.runtimeconfig.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\bin\Debug\net5.0\Mang.runtimeconfig.dev.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\bin\Debug\net5.0\Mang.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\bin\Debug\net5.0\ref\Mang.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\bin\Debug\net5.0\Mang.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\obj\Debug\net5.0\Mang.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\obj\Debug\net5.0\ref\Mang.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\obj\Debug\net5.0\Mang.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\Mang\obj\Debug\net5.0\Mang.genruntimeconfig.cache

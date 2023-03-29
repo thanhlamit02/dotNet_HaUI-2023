@@ -1,0 +1,15 @@
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\bin\Debug\net6.0\TapTin.exe
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\bin\Debug\net6.0\TapTin.deps.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\bin\Debug\net6.0\TapTin.runtimeconfig.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\bin\Debug\net6.0\TapTin.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\bin\Debug\net6.0\TapTin.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\obj\Debug\net6.0\TapTin.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\obj\Debug\net6.0\TapTin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\obj\Debug\net6.0\TapTin.AssemblyInfoInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\obj\Debug\net6.0\TapTin.AssemblyInfo.cs
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\obj\Debug\net6.0\TapTin.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\obj\Debug\net6.0\TapTin.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\obj\Debug\net6.0\refint\TapTin.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\obj\Debug\net6.0\TapTin.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\obj\Debug\net6.0\TapTin.genruntimeconfig.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\TapTin\obj\Debug\net6.0\ref\TapTin.dll

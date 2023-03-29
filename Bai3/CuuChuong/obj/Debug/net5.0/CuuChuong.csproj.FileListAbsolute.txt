@@ -1,0 +1,16 @@
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.exe
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.deps.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.runtimeconfig.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.runtimeconfig.dev.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\bin\Debug\net5.0\ref\CuuChuong.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\bin\Debug\net5.0\CuuChuong.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.csproj.AssemblyReference.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.AssemblyInfoInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.AssemblyInfo.cs
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.csproj.CoreCompileInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\obj\Debug\net5.0\ref\CuuChuong.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\CuuChuong\obj\Debug\net5.0\CuuChuong.genruntimeconfig.cache

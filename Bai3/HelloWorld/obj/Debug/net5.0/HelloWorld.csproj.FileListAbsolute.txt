@@ -1,0 +1,32 @@
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\obj\Debug\net5.0\refint\HelloWorld.dll
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
+E:\Documents\Giao trinh hoc online\3rd year\dotNet\Project\Bai3\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll

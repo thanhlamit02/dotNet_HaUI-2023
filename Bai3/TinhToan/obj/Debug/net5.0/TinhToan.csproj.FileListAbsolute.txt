@@ -1,0 +1,16 @@
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.exe
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.deps.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.runtimeconfig.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.runtimeconfig.dev.json
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\bin\Debug\net5.0\ref\TinhToan.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.csproj.AssemblyReference.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.AssemblyInfoInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.AssemblyInfo.cs
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.csproj.CoreCompileInputs.cache
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\obj\Debug\net5.0\ref\TinhToan.dll
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.pdb
+C:\Insight Files\NguyenThanhLam_2020601227\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.genruntimeconfig.cache
