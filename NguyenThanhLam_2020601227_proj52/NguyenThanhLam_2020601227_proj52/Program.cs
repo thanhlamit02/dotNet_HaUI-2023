@@ -34,7 +34,18 @@ namespace NguyenThanhLam_2020601227_proj52
                         ptb2.outputValue();
                         break;
                     case 3:
+                        findUCLN findValue = new findUCLN();
+                        Console.Write("Nhap so thu nhat: ");
+                        findValue.firstNum = Convert.ToInt32(Console.ReadLine());
+
+                        Console.Write("Nhap so thu hai: ");
+                        findValue.secondNum = Convert.ToInt32(Console.ReadLine());
+
+                        Console.WriteLine("ULCN cua 2 so {0} va {1} la {2}", findValue.firstNum, findValue.secondNum, findValue.ucln(findValue.firstNum, findValue.secondNum));
                         break;
+                    case 4:
+                        Console.WriteLine("Ban da chon thoat chuong trinh.");
+                        return;
                     default:
                         Console.WriteLine("Moi chon lai!");
                         break;

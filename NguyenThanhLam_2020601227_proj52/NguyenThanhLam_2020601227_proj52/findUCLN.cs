@@ -18,5 +18,11 @@ namespace NguyenThanhLam_2020601227_proj52
             this.firstNum = firstNum;
             this.secondNum = secondNum;
         }
+
+        public int ucln(int firstNum, int secondNum)
+        {
+            if(secondNum == 0) return firstNum;
+            return ucln(secondNum, firstNum % secondNum);
+        }
     }
 }
